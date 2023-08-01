@@ -4,7 +4,7 @@ const QuoteBox = ({handleChangeQuote, quote}) => {
  
   return (
     <section className='quoteBox'>
-      <h1>Fortune Cookies</h1>
+      <h1>Galletas de la fortuna</h1>
 
       <section>
         <button onClick={handleChangeQuote}>Try luck</button>
